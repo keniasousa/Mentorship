@@ -16,7 +16,7 @@
 
 4. Select "Desktop app" to configure your OAuth client
 
-5. Click on "create"
+5. Click on "Create"
 
 6. Click on "Download Client Configuration"
 
