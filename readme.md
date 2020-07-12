@@ -14,9 +14,13 @@
 
 3. Go to https://developers.google.com/sheets/api/quickstart/python and click on the button "Enable the Google Sheets API" 
 
-4. Click on "Download Client Configuration"
+4. Select "Desktop app" to configure your OAuth client
 
-5. Save the file "credentials.json" then click on "Done"
+5. Click on "create"
+
+6. Click on "Download Client Configuration"
+
+7. Save the file "credentials.json" then click on "Done"
 
 ### Setup Python Script
 
