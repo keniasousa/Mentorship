@@ -46,7 +46,7 @@ Location: folder where the scripts are located
 
 16. Delete token-drive.json and token-spreadsheet.json
 
-17. Run create_tracking_sheets.py to create these two files.
+17. Run create_tracking_sheets.py to create these two files. To run it, go to the command line and type python create_tracking_sheets.py 
 
 18. Run create_tracking_sheets.py to create the spreadsheets.
 
