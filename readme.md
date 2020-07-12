@@ -26,7 +26,7 @@
 
 8. Go to the command line and navigate to the folder where the scripts are located
 
-9. Execute: pip install -r requirements.txt 
+9. Execute: pip install -r requirements.txt  (For info on how to install pip: https://www.shellhacks.com/python-install-pip-mac-ubuntu-centos/)
 
 File: create_tracking_sheets.py: 
 
