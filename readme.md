@@ -40,7 +40,7 @@ File: create_tracking_sheets.py:
 
 13. Substitute the ID of the folder with the current year, e.g. "2020", by changing the variable folder_id. The ID is in the folder URL.
 
-14. Change the IDs of the tabs in the method copy_sheet(), the third parameter. Look at gid in the file URL after selecting the tab in the template file.
+14. Change the IDs of the tabs in the method copy_sheet(), the third parameter, using the gid in the file URL after selecting the tab in the template file.
 
 15. Substitute the tab name (named '2019') and verify all the tab names (if you changed them) on the method update_cell(service,)
 
