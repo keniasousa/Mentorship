@@ -8,9 +8,11 @@
 
 2. At the Google Drive root: 
 
-   1. Create a folder for the current year (e.g. 2019)
+   1. Create a folder for the current year (e.g. 2020)
 
-   2. Create a file with the spreadsheet template for the year: e.g. Template-Weekly-Tracking-2019
+   2. Create a file with the spreadsheet template for the year.
+   
+   3. Create a file with the list of mentors and mentees for the year.
 
 3. Go to https://developers.google.com/sheets/api/quickstart/python and click on the button "Enable the Google Sheets API" 
 
