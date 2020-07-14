@@ -10,9 +10,9 @@
 
    1. Create a folder for the current year (e.g. 2020)
 
-   2. Create a file with the spreadsheet template for the year. Reference the file "template-weekly-tracking-year.xlsx" for the format (in the templates folder).
+   2. Create a file with the spreadsheet template for the year based on the file "templates/template-weekly-tracking-year.xlsx".
    
-   3. Create a file with the list of mentors and mentees for the year. Reference the file "index-year.xlsx" for the format (in the templates folder).
+   3. Create a file with the list of mentors and mentees for the year based on the file "templates/index-year.xlsx".
 
 3. Go to https://developers.google.com/sheets/api/quickstart/python and click on the button "Enable the Google Sheets API" 
 
